@@ -1,4 +1,4 @@
-# SimpleSwap DApp
+# SimpleSwap
 
 A minimal decentralized exchange (DEX) called **SimpleSwap**, enabling liquidity provision and swapping between two custom ERC20 tokens: **TokenTik (TIK)** and **TokenTok (TOK)**.
 
